@@ -1,0 +1,59 @@
+h2 {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+h4 {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    text-align: start;
+    font-size: 24px;
+    margin: 0 50px 0 50px;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin: 0 50px 0 50px;
+}
+
+#page-title {
+    font-family: "Ultra", serif;
+    text-align: center;
+    color: #fff98a;
+    font-weight: normal;
+    margin: 100px 0 50px 0;
+}
+
+div.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin:  0 auto;
+}
+
+div.body-text {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 20px;
+}
+
+.ringo-portait {
+    margin: 0 0 50px 0;
+}
+
+.photo-gallery {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+}
