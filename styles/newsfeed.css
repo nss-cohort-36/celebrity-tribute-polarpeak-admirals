@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-/* common styles */
-
-=======
-
-/* page background and font color */
->>>>>>> master
 body {
+    /* background-color: #fc6325; */
     background-color: #795138;
     color: white;
 }
@@ -22,7 +16,6 @@ h1 {
 p {
     font-family: 'Roboto', sans-serif;
 }
-
 
 .logo-title {
     display: flex;
@@ -58,4 +51,37 @@ p {
 
 .footer a {
     padding: 20px;
+}
+
+/* page body */
+
+h1 p {
+    display: table-column;
+}
+
+.new-album {
+    align-items: baseline;
+    font-family: 'Ultra', sans-serif;
+    font-weight: lighter;
+    color: #fff98a;
+}
+
+.thirtieth {
+    font-family: 'Ultra', sans-serif;
+    font-weight: lighter;
+    color: #fff98a;
+}
+
+.peace-love {
+    font-family: 'Ultra', sans-serif;
+    font-weight: lighter;
+    color: #fff98a;
+}
+
+div h1 {
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
 }
