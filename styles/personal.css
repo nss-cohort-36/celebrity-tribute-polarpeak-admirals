@@ -1,0 +1,24 @@
+h1 #page-title {
+    font-family: ‘Ultra’, serif;
+    text-align: center;
+    color: #fff98a;
+    font-weight: normal;
+    margin: 100px 0 50px 0;
+ }
+
+ p {
+     display: flex;
+    font-family: ‘Ultra’, serif;
+    color: white;
+    font-weight: normal;
+    /* display: flex;
+    flex-wrap: wrap;   */
+ }
+
+ .section_title {
+
+ }
+
+ .pic {
+     display: flex;
+ }
