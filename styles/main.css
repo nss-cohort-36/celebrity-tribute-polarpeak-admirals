@@ -1,0 +1,23 @@
+body {
+    background-color: #fc6325;
+    color: white;
+}
+
+h1 {
+    font-family: 'Ultra', serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-container > li {
+    flex-basis: 25%;
+}
+
