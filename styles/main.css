@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 /* common styles */
 
+=======
+
+/* page background and font color */
+>>>>>>> master
 body {
-    /* background-color: #fc6325; */
     background-color: #795138;
     color: white;
 }
@@ -18,6 +22,7 @@ h1 {
 p {
     font-family: 'Roboto', sans-serif;
 }
+
 
 .logo-title {
     display: flex;
