@@ -1,5 +1,6 @@
+
+/* page background and font color */
 body {
-    /* background-color: #fc6325; */
     background-color: #795138;
     color: white;
 }
@@ -16,6 +17,7 @@ h1 {
 p {
     font-family: 'Roboto', sans-serif;
 }
+
 
 .logo-title {
     display: flex;
