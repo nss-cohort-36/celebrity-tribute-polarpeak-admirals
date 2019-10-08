@@ -20,16 +20,18 @@
      display: flex;
  }
 
-/*  */
+/* Family sections styling */
  .format {
      display: flex;
      justify-content: space-between;
  }
 
+ /* Horizontal rule styling */
  hr {
     border-color: #fc6325;
  }
 
+ /* Title styling */
  .section_title {
     font-family: 'Ultra', serif;
  }
