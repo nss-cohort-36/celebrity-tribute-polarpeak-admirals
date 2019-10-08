@@ -1,24 +1,35 @@
-h1 #page-title {
-    font-family: ‘Ultra’, serif;
+/* Page title color and styling */
+#page-title {
     text-align: center;
     color: #fff98a;
     font-weight: normal;
     margin: 100px 0 50px 0;
  }
 
+ /* Paragraph color and styling */
  p {
      display: flex;
-    font-family: ‘Ultra’, serif;
+    font-family: 'Roboto', serif;
     color: white;
     font-weight: normal;
-    /* display: flex;
-    flex-wrap: wrap;   */
+    margin: 0px 30px;
+ }
+
+ /* Picture styling */
+ .pic {
+     display: flex;
+ }
+
+/*  */
+ .format {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ hr {
+    border-color: #fc6325;
  }
 
  .section_title {
-
- }
-
- .pic {
-     display: flex;
+    font-family: 'Ultra', serif;
  }
