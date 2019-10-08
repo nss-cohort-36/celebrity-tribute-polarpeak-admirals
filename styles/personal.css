@@ -1,0 +1,37 @@
+/* Page title color and styling */
+#page-title {
+    text-align: center;
+    color: #fff98a;
+    font-weight: normal;
+    margin: 100px 0 50px 0;
+ }
+
+ /* Paragraph color and styling */
+ p {
+     display: flex;
+    font-family: 'Roboto', serif;
+    color: white;
+    font-weight: normal;
+    margin: 0px 30px;
+ }
+
+ /* Picture styling */
+ .pic {
+     display: flex;
+ }
+
+/* Family sections styling */
+ .format {
+     display: flex;
+     justify-content: space-between;
+ }
+
+ /* Horizontal rule styling */
+ hr {
+    border-color: #fc6325;
+ }
+
+ /* Title styling */
+ .section_title {
+    font-family: 'Ultra', serif;
+ }
